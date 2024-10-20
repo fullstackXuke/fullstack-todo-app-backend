@@ -1,4 +1,4 @@
-package com.example.demo.controller;
+package com.example.backend.controller;
 
       import com.example.demo.util.JwtUtil;
       import org.springframework.beans.factory.annotation.Autowired;

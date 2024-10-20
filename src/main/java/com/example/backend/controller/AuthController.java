@@ -1,6 +1,6 @@
 package com.example.backend.controller;
 
-      import com.example.demo.util.JwtUtil;
+      import com.example.backend.util.JwtUtil;
       import org.springframework.beans.factory.annotation.Autowired;
       import org.springframework.security.authentication.AuthenticationManager;
       import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

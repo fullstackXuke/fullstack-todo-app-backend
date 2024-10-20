@@ -1,4 +1,4 @@
-     package com.example.demo.repository;
+     package com.example.backend.repository;
 
      import com.example.demo.entity.Task;
      import org.springframework.data.jpa.repository.JpaRepository;

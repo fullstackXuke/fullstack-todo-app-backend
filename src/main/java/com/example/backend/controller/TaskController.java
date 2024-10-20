@@ -1,7 +1,7 @@
      package com.example.backend.controller;
 
-     import com.example.demo.entity.Task;
-     import com.example.demo.repository.TaskRepository;
+     import com.example.backend.entity.Task;
+     import com.example.backend.repository.TaskRepository;
      import org.springframework.beans.factory.annotation.Autowired;
      import org.springframework.web.bind.annotation.*;
 

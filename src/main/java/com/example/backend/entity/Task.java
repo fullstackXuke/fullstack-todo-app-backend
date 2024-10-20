@@ -1,4 +1,4 @@
-     package com.example.demo.entity;
+     package com.example.backend.entity;
 
  //    import javax.persistence.*;
 import jakarta.persistence.Entity;
